@@ -1,0 +1,4 @@
+nombre,ingredientes,preparacion,tiempo_preparacion,tiempo_coccion,fecha_creacion,imagen
+Tortilla española,"[<__main__.Ingrediente object at 0x0000023BF48EA710>, <__main__.Ingrediente object at 0x0000023BF48EA5D0>]",Instrucciones de la receta predeterminada.,30,60,2022-03-08,pyimage59
+Ensalada César,"[<__main__.Ingrediente object at 0x0000023BF48F0650>, <__main__.Ingrediente object at 0x0000023BF48F0590>]",Instrucciones de la receta predeterminada.,30,60,2022-03-08,pyimage60
+Pizza Napolitana,"[<__main__.Ingrediente object at 0x0000023BF48F0B50>, <__main__.Ingrediente object at 0x0000023BF48F0A50>]",Instrucciones de la receta predeterminada.,30,60,2022-03-08,pyimage61
